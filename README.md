@@ -34,15 +34,9 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=sabasml gmail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://t.me/" target="_blank">
+<a href="https://t.me/s.sml" target="_blank">
  <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=sabasml telegram style="margin-bottom: 5px;" />
 </a>
                                                  
 
 </div>  
-
----
-
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
-
----
